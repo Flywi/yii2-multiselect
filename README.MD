@@ -19,6 +19,5 @@ echo $form->field($model, 'attributeId')->widget(\flywi\select\MultiSelectWidget
 ]);
 ...
 ```
-```
 ## 其他
-clientOptions [配置参考](https://github.com/crlcu/multiselect)
+clientOptions [ 配置参考 ](https://github.com/crlcu/multiselect)
