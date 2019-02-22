@@ -1,5 +1,5 @@
 # yii2-multiselect
-![example](https://github.com/Flywi/yii2-multiselect/example.png)
+![example](https://github.com/Flywi/yii2-multiselect/blob/master/example.png)
 ## 安装
 
 推荐使用
