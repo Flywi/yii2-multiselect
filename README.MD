@@ -5,7 +5,7 @@
 推荐使用
 
 ```
-$ php composer.phar require flywi/yii2-multiselect"
+$ php composer.phar require flywi/yii2-multiselect
 ```
 
 ## 使用
