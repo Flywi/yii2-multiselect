@@ -1,0 +1,21 @@
+{
+    "name": "flywi/yii2-multiselect",
+    "description": "yii2 widget for two sides select",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flywi",
+            "email": "woflowin@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "^2.0.15",
+        "bower-asset/multiselect-two-sides": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "flywi\\select\\": "src"
+        }
+    }
+}
